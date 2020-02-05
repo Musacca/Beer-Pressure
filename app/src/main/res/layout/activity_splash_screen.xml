@@ -6,10 +6,10 @@
     android:layout_height="match_parent"
     android:background="#11192c"
     >
-    <android.support.v7.widget.AppCompatImageView
+    <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="fitXY"
-        app:srcCompat="@drawable/background"
+        android:src="@drawable/background"
         android:id="@+id/splash"/>
 </RelativeLayout>

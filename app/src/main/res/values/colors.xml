@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorPrimary">#29207c</color>
+    <color name="colorPrimaryDark">#1e1a63</color>
+    <color name="white">#FFFFFF</color>
+    <color name="helloTextColor">#FFFFFF</color>
+    <color name="nextButtonTextColor">#FFFFFF</color>
+    <color name="nextButtonColor">#29207c</color>
+    <color name="nextButtonBorderColor">#1f2141</color>
+    <color name="usernameText">#5b5bfc</color>
+    <color name="usernameEdittextHintColor">#ffffff</color>
+    <color name="downIconColor">#ffffff</color>
+    <color name="headerColor_DialogCountrySearch">#28207A</color>
+    <color name="secondItemColor_DialogCountrySearch">#1A1A59</color>
+    <color name="firstItemColor_DialogCountrySearch">#171751</color>
+    <color name="backgroundColor_DialogCountrySearch">#171751</color>
+    <color name="searchTextColor_DialogCountrySearch">#C5CAE9</color>
+    <color name="cancelTextColor_DialogCountrySearch">#C5CAE9</color>
+
+    <color name="countryNameColor_AdapterCustomCountry">#C5CAE9</color>
+
 </resources>
